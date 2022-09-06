@@ -1,1 +1,1 @@
-My variables expansions
+My variable expansions
