@@ -1,1 +1,1 @@
-Mythird readme
+My variables expansions
